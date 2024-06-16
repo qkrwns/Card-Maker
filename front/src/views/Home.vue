@@ -1,5 +1,5 @@
 <template>
-  <div class="bg-indigo-lighten-1" style="min-width: 360px">
+  <div class="bg-teal-accent-2" style="min-width: 360px">
     <v-container>
       <v-row class="flex justify-center">
         <v-col cols="8">
